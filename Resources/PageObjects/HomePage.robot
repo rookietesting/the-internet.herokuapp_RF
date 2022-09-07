@@ -7,9 +7,9 @@ Click A/B Testing Link
 Click Add/Remove Elements Link
     Click Link    link:Add/Remove Elements
 Click Basic Auth
-    Click Link    link:
+    Click Link    link:Basic Auth
 Click Broken Images
-    Click Link    link:
+    Click Link    link:Broken Images
 Click Challenging DOM
 Click Checkboxes
 Click Context Menu
