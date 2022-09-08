@@ -12,7 +12,9 @@ Click Broken Images
     Click Link    link:Broken Images
 Click Challenging DOM
 Click Checkboxes
+        Click Link    link:Checkboxes
 Click Context Menu
+        Click Link    link:Context Menu
 Click Digest Authentication (user and pass: admin)
 Click Disappearing Elements
 Click Drag and Drop
@@ -27,12 +29,14 @@ Click File Upload
 Click Floating Menu
 Click Forgot Password
 Click Form Authentication
+    Click Link  link:Form Authentication
 Click Frames
 Click Geolocation
 Click Horizontal Slider
 Click Hovers
 Click Infinite Scroll
 Click Inputs
+    Click Link  link:Inputs
 Click JQuery UI Menus
 Click JavaScript Alerts
 Click JavaScript onload event error
